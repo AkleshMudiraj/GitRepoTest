@@ -1,0 +1,21 @@
+Git Command
+
+- git init
+- git status
+- git add
+- git commit -m "added gitcommand.txt"
+- git remote add origin 
+- git push -u origin master
+- git config --global user.email "mudiraj.aklesh97@gmail.com"
+- git congig --global user.name "Aklesh Mudiraj"
+- git push -u origin master
+- git log
+- git --help
+- git branch Branch Name(NewBranch) // Create NewBranch
+- git checkout Branch Name (NewBranch)  // Checkout branch 
+- git merge Branch Name(Master, NewBranch)
+- git -d BranchName // delete branch from locally
+- git push origin --delete branch Name (NewBranch)
+
+
+
